@@ -1,0 +1,22 @@
+div {
+    font-family: 'Inconsolata' !important;
+}
+h1,h2,h3,h4,h5 {
+    font-family: 'Inconsolata' !important;
+}
+.ops-gradient {
+    background: -webkit-linear-gradient(rgb(204, 0, 126), rgb(255, 94, 0));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.ops-shadow {
+    text-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+}
+.ops-centered {
+    text-align: center;
+}
+.ops-contact-card {
+    background-color: rgb(245, 245, 245);
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
